@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/praneethkapilavai/leetcode-problems/tree/master/0009-palindrome-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
