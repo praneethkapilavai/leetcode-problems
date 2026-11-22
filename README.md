@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0496-next-greater-element-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
