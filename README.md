@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/praneethkapilavai/leetcode-problems/tree/master/0009-palindrome-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Array
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
