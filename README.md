@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0198-house-robber](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0496-next-greater-element-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
