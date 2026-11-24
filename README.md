@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0198-house-robber/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 <!---LeetCode Topics End-->
