@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/praneethkapilavai/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/praneethkapilavai/leetcode-problems/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/praneethkapilavai/leetcode-problems/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 <!---LeetCode Topics End-->
